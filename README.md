@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>xiangjianan</h1>
   <p><strong>AI-Native Builder · Open-Source Curator</strong></p>
-  <p>I ship small tools people actually use.</p>
   <p>
-    <code>UTC+8</code> · <code>since 2020</code> · <code>AI-Native</code> · <code>Do less, do it well</code>
+    <code>UTC+8</code> · <code>since 2020</code> · <code>Do less, do it well</code>
   </p>
 </div>
 
@@ -14,12 +12,12 @@
 ### 🖥️ mini-desk
 > *Do less, do it well.* A local-first personal workspace — notes, reminders, quick actions, screenshots, and everyday tools, all in one place.
 
-[Live](https://minidesk.helloxjn.com) · [Repo](https://github.com/xiangjianan/mini-desk) · `TypeScript`
+<a href="https://minidesk.helloxjn.com" target="_blank">Live</a> · <a href="https://github.com/xiangjianan/mini-desk" target="_blank">Repo</a> · `TypeScript`
 
 ### 🎯 taptap
 > 「数一数噻」— a WeChat Mini Game. A number-finding puzzle built on Voronoi diagrams, playable right in WeChat.
 
-[Live](https://taptap.helloxjn.com) · [Repo](https://github.com/xiangjianan/taptap) · `JavaScript`
+<a href="https://taptap.helloxjn.com" target="_blank">Live</a> · <a href="https://github.com/xiangjianan/taptap" target="_blank">Repo</a> · `JavaScript`
 
 ---
 
