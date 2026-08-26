@@ -1,7 +1,7 @@
 <div align="center">
   <h1>xiangjianan</h1>
   <p><strong>AI-Native Builder · Open-Source Curator</strong></p>
-  <p>I ship small tools people actually use, and curate the internet's best.</p>
+  <p>I ship small tools people actually use.</p>
   <p>
     <code>UTC+8</code> · <code>since 2020</code> · <code>AI-Native</code> · <code>Do less, do it well</code>
   </p>
@@ -9,30 +9,31 @@
 
 ---
 
-## Who I am
+## Featured
 
-I build things that are small, focused, and actually get used. On GitHub since **2020**: a flagship curated list, a daily AI news pipeline, a first-principles engine, a WeChat mini-game, a fitness bet — and an AI-native build mode where a model is the planner and I'm the architect.
+### 🖥️ mini-desk
+> *Do less, do it well.* A local-first personal workspace — notes, reminders, quick actions, screenshots, and everyday tools, all in one place.
 
-## The Flex
+[Live](https://minidesk.helloxjn.com) · [Repo](https://github.com/xiangjianan/mini-desk) · `TypeScript`
 
-| 💼 What I do | 🌟 Highlights |
-| --- | --- |
-| **Builder** — full-stack, from pixels to deploy | ⭐ **lks** — **449★ / 68 forks**, a curated list of **303 high-quality websites** from LKs' Bilibili series |
-| **Curator** — I collect and organize the internet's best | 📚 **303** curated sites, one browsable list |
-| **Toolmaker** — local-first utilities that just work | 🤖 **AI-native** — this profile and my sites are written with **Codex** |
-| **Agentic** — systems where an agent plans and calls tools | 🛠️ a toolbelt of everyday tools |
+### 🎯 taptap
+> 「数一数噻」— a WeChat Mini Game. A number-finding puzzle built on Voronoi diagrams, playable right in WeChat.
 
-## Selected Works
+[Live](https://taptap.helloxjn.com) · [Repo](https://github.com/xiangjianan/taptap) · `JavaScript`
 
-- ⭐ **[lks](https://github.com/xiangjianan/lks)** — 303 curated websites from LKs' Bilibili series · [live](https://lkssite.vip)
+---
+
+## More Works
+
+- ⭐ **[lks](https://github.com/xiangjianan/lks)** — 303 curated websites from LKs' Bilibili series · [live](https://lkssite.vip) · **449★**
 - ⏳ **[time-traveler](https://github.com/xiangjianan/time-traveler)** — LLM-driven historical time-travel adventure
-- 🖥️ **[mini-desk](https://github.com/xiangjianan/mini-desk)** — local-first personal workspace · [live](https://minidesk.helloxjn.com)
-- ⚛️ **[primus](https://github.com/xiangjianan/primus)** — first-principles engine: drill any goal down to "do it now"
+- ⚛️ **[primus](https://github.com/xiangjianan/primus)** — first-principles engine: drill any goal down to "do it now" · [live](https://primus.helloxjn.com)
 - 🤖 **[ai-daily-news](https://github.com/xiangjianan/ai-daily-news)** — auto-aggregated daily AI news · [live](https://xiangjianan.github.io/ai-daily-news/)
+- 📝 **[jindou-blog](https://github.com/xiangjianan/jindou-blog)** — AI research & tech writing · [live](https://aiblog.helloxjn.com)
+- 💪 **[workout-checkin](https://github.com/xiangjianan/workout-checkin)** — 100-day fitness bet · [live](https://workout.helloxjn.com)
+- 🎨 **[lkszj](https://github.com/xiangjianan/lkszj)** · ⏱️ **[scheduler](https://github.com/xiangjianan/scheduler)** · 🧩 **[mermaid](https://github.com/xiangjianan/mermaid)** · 📡 **[send-msg](https://github.com/xiangjianan/send-msg)**
 
-## At a Glance
-
-- **2020** — first commit. **`lks`** → 449★. **Toolbelt** shipped. **Now** — fully AI-native with Codex.
+---
 
 ## Say hi
 
