@@ -33,6 +33,16 @@
 
 ---
 
+## AI & Agentic
+
+- 🤖 **Agent workflows** — the loop where a model plans, calls tools, and finishes the job
+- ⚛️ **LLM-first** — `primus` (first-principles engine) and `time-traveler` (LLM-driven adventure)
+- ✨ **AI-native build** — designed end-to-end with **Codex**, zero hand-written lines
+
+`Agent Orchestration` · `LLM` · `RAG` · `Prompt Engineering` · `Tool Calling` · `Function Calling` · `Codex`
+
+---
+
 ## Say hi
 
 [GitHub](https://github.com/xiangjianan) · [Portfolio](https://xiangjianan.github.io/) · `xiang9872@gmail.com`
