@@ -1,31 +1,57 @@
 <div align="center">
-  <p><strong>AI-Native Builder · Agent · Open-Source Curator</strong></p>
+  <p><strong>AI is the product, not the tool.</strong></p>
   <p>
-    <code>LLM</code> · <code>Harness</code> · <code>Agent</code> · <code>Do less, do it well</code>
+    <code>AI-Native</code> · <code>Agent</code> · <code>LLM</code> · <code>Harness</code>
   </p>
 </div>
 
----
-
-## Featured
-
-### 🖥️ mini-desk
-> *Do less, do it well.* A local-first personal workspace — notes, reminders, quick actions, screenshots, and everyday tools, all in one place.
-
-<a href="https://minidesk.helloxjn.com" target="_blank">Live</a> · <a href="https://github.com/xiangjianan/mini-desk" target="_blank">Repo</a> · `TypeScript`
-
-### 🎯 taptap
-> A WeChat Mini Game — a number-finding puzzle built on Voronoi diagrams, playable right in WeChat.
-
-<a href="https://taptap.helloxjn.com" target="_blank">Live</a> · <a href="https://github.com/xiangjianan/taptap" target="_blank">Repo</a> · `JavaScript`
+> I don't use AI to do old things faster — I build things that only exist because of it.
 
 ---
 
-## More Works
+## AI-native works
 
-- ⭐ **[lks](https://github.com/xiangjianan/lks)** — 303 curated websites from LKs' Bilibili series · [live](https://lkssite.vip)
-- ⏳ **[time-traveler](https://github.com/xiangjianan/time-traveler)** — LLM-driven historical time-travel adventure
-- ⚛️ **[primus](https://github.com/xiangjianan/primus)** — first-principles engine: agent-style planning, any goal down to "do it now" · [live](https://primus.helloxjn.com)
+### ⏳ time-traveler
+> A historical time-travel adventure where the model is the engine — every turn's story is woven on the fly. No LLM, no product.
+
+<a href="https://github.com/xiangjianan/time-traveler" target="_blank">Repo</a> · 🎬 demo → coming
+
+### ⚛️ primus
+> A first-principles engine: drop in a vague goal (or messy text), and the model reasons its own way down to "do it now". Autonomous planning, not hand-written logic.
+
+<a href="https://primus.helloxjn.com" target="_blank">Live</a> · <a href="https://github.com/xiangjianan/primus" target="_blank">Repo</a>
+
+---
+
+## More work
+
+- 🖥️ **[mini-desk](https://github.com/xiangjianan/mini-desk)** — local-first personal workspace · [live](https://minidesk.helloxjn.com)
+- 🎯 **[taptap](https://github.com/xiangjianan/taptap)** — WeChat Mini Game, Voronoi number puzzle · [live](https://taptap.helloxjn.com)
+- 📚 **[lks](https://github.com/xiangjianan/lks)** — 303 curated websites from LKs' Bilibili series · [live](https://lkssite.vip)
 - 🤖 **[ai-daily-news](https://github.com/xiangjianan/ai-daily-news)** — auto-aggregated daily AI news · [live](https://xiangjianan.github.io/ai-daily-news/)
 - 📝 **[jindou-blog](https://github.com/xiangjianan/jindou-blog)** — AI research & tech writing · [live](https://aiblog.helloxjn.com)
 - 💪 **[workout-checkin](https://github.com/xiangjianan/workout-checkin)** — 100-day fitness bet · [live](https://workout.helloxjn.com)
+
+---
+
+## Experiments · small & deep
+
+Digging one AI capability boundary at a time:
+
+- 🧠 **long-horizon agents** that don't "forget"
+- 🌍 **multimodal models** that grasp physical causality
+- 🧩 **unstructured input → structured, valuable output**
+
+---
+
+## Writing & 复盘
+
+Open by default — clear READMEs, public retrospections, teaching what I learn.
+
+- 📝 **jindou-blog** — "teach is learn": one post that truly explains a hard concept (e.g. 图解 Transformer)
+
+---
+
+## Open source
+
+- 🔧 PRs & plugins for **LangChain · LlamaIndex · AutoGPT** (in progress)
