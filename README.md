@@ -29,4 +29,3 @@
 - 🤖 **[ai-daily-news](https://github.com/xiangjianan/ai-daily-news)** — auto-aggregated daily AI news · [live](https://xiangjianan.github.io/ai-daily-news/)
 - 📝 **[jindou-blog](https://github.com/xiangjianan/jindou-blog)** — AI research & tech writing · [live](https://aiblog.helloxjn.com)
 - 💪 **[workout-checkin](https://github.com/xiangjianan/workout-checkin)** — 100-day fitness bet · [live](https://workout.helloxjn.com)
-- 🎨 **[lkszj](https://github.com/xiangjianan/lkszj)** · ⏱️ **[scheduler](https://github.com/xiangjianan/scheduler)** · 🧩 **[mermaid](https://github.com/xiangjianan/mermaid)** · 📡 **[send-msg](https://github.com/xiangjianan/send-msg)**
