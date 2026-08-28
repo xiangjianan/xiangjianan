@@ -1,9 +1,19 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_100%25_AI_Developed-7C3AED?style=for-the-badge" alt="100% AI Developed" />
+  <img src="https://img.shields.io/badge/✨_AI_is_the_product-00D4AA?style=for-the-badge" alt="AI is the product" />
+</p>
+
 <div align="center">
   <p><strong>AI is the product, not the tool.</strong></p>
   <p>
     <code>AI-Native</code> · <code>Agent</code> · <code>LLM</code> · <code>Harness</code>
   </p>
 </div>
+
+<!-- Hero nav -->
+<p align="center">
+  <a href="#ai-native-works">AI-native works</a> · <a href="#more-work">More</a> · <a href="#experiments">Experiments</a> · <a href="#writing">Writing</a> · <a href="#open-source">Open source</a>
+</p>
 
 > I don't use AI to do old things faster — I build things that only exist because of it.
 
@@ -34,9 +44,9 @@
 
 ---
 
-## Experiments · small & deep
+## Experiments
 
-Digging one AI capability boundary at a time:
+Digging one AI capability boundary at a time — small & deep:
 
 - 🧠 **long-horizon agents** that don't "forget"
 - 🌍 **multimodal models** that grasp physical causality
@@ -44,9 +54,9 @@ Digging one AI capability boundary at a time:
 
 ---
 
-## Writing & 复盘
+## Writing
 
-Open by default — clear READMEs, public retrospections, teaching what I learn.
+Open by default — clear READMEs, public retrospections (复盘), teaching what I learn.
 
 - 📝 **jindou-blog** — "teach is learn": one post that truly explains a hard concept (e.g. 图解 Transformer)
 
