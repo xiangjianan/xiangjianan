@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_100%25_AI_Native-7C3AED?style=for-the-badge" alt="100% AI Native" />
-  <img src="https://img.shields.io/badge/✨_AI_native_by_design-00D4AA?style=for-the-badge" alt="AI native by design" />
+  <img src="assets/slogan.svg" width="900" style="max-width:100%" alt="AI is the product, not the tool." />
 </p>
 
 <div align="center">
-  <p><strong>AI is the product, not the tool.</strong></p>
   <p>
     <code>AI-Native</code> · <code>Agent</code> · <code>LLM</code> · <code>Harness</code>
   </p>
