@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/slogan.svg" width="900" style="max-width:100%" alt="AI is the product, not the tool." />
+  <img src="assets/slogan.svg" width="900" style="max-width:100%" alt="Build for AI, not around it." />
 </p>
 
 <div align="center">
