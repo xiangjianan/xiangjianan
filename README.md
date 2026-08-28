@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/slogan.svg" width="900" style="max-width:100%" alt="Build for AI, not around it." />
+  <img src="https://raw.githubusercontent.com/xiangjianan/xiangjianan/main/assets/slogan.svg" width="900" style="max-width:100%" alt="Build for AI, not around it." />
 </p>
 
 <div align="center">
