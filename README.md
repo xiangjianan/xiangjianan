@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_100%25_AI_Developed-7C3AED?style=for-the-badge" alt="100% AI Developed" />
-  <img src="https://img.shields.io/badge/✨_AI_is_the_product-00D4AA?style=for-the-badge" alt="AI is the product" />
+  <img src="https://img.shields.io/badge/🤖_100%25_AI_Native-7C3AED?style=for-the-badge" alt="100% AI Native" />
+  <img src="https://img.shields.io/badge/✨_AI_native_by_design-00D4AA?style=for-the-badge" alt="AI native by design" />
 </p>
 
 <div align="center">
