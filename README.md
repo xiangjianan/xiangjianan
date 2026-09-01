@@ -1,15 +1,5 @@
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 66" width="100%" role="img" aria-label="Build for AI, not around it.">
-    <title>Build for AI, not around it.</title>
-    <defs>
-      <linearGradient id="sloganGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%"><animate attributeName="stop-color" values="#7C3AED;#00D4AA;#FF6B35;#FF3D81;#7C3AED" dur="7s" repeatCount="indefinite"/></stop>
-        <stop offset="50%"><animate attributeName="stop-color" values="#00D4AA;#FF6B35;#FF3D81;#7C3AED;#00D4AA" dur="7s" repeatCount="indefinite"/></stop>
-        <stop offset="100%"><animate attributeName="stop-color" values="#FF6B35;#FF3D81;#7C3AED;#00D4AA;#FF6B35" dur="7s" repeatCount="indefinite"/></stop>
-      </linearGradient>
-    </defs>
-    <text x="450" y="47" text-anchor="middle" style="font-family:-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:1px" fill="url(#sloganGrad)">BUILD FOR AI, NOT AROUND IT.</text>
-  </svg>
+  <img src="https://raw.githubusercontent.com/xiangjianan/xiangjianan/main/assets/slogan.svg" width="900" style="max-width:100%" alt="Build for AI, not around it." />
 </p>
 
 <div align="center">
