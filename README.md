@@ -1,6 +1,6 @@
 <sub>A PLACE FOR SMALL IDEAS</sub>
 
-# 给好奇留点空间，
+# 给好奇留点空间。
 
 让日子多点意思。
 
