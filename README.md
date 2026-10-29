@@ -1,8 +1,10 @@
 <sub>A PLACE FOR SMALL IDEAS</sub>
 
-# Making room for curiosity.
+# 给好奇留点空间，
 
-And a more interesting everyday.
+让日子多点意思。
+
+Make room for curiosity. Make everyday a little more interesting.
 
 Tools, experiments, and ideas worth spending a little time on. Some are useful. Some are simply fun.
 
