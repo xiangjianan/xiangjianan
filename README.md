@@ -1,19 +1,19 @@
-<sub>XIANGJIANAN / INDEPENDENT BUILDER</sub>
+<sub>A PLACE FOR SMALL IDEAS</sub>
 
-# Small ideas, made real.
+# Making room for curiosity.
 
-For a more interesting everyday.
+And a more interesting everyday.
 
-I build useful tools with AI and code, experiment with games, and make information easier to explore.
-
----
-
-### Selected work
-
-- **[Mini Desk](https://github.com/xiangjianan/mini-desk)** — A quiet, local-first workspace for everyday tools. [↗ Visit](https://minidesk.online/)
-- **[jindou-blog](https://github.com/xiangjianan/jindou-blog)** — AI research, technical explainers, and notes. [↗ Read](https://aiblog.helloxjn.com/)
-- **[daily-digest](https://github.com/xiangjianan/daily-digest)** — Daily outputs from automated tasks, collected in one place. [↗ Explore](https://xiangjianan.github.io/daily-digest/)
+Tools, experiments, and ideas worth spending a little time on. Some are useful. Some are simply fun.
 
 ---
 
-[Website & more work](https://xiangjianan.github.io/) · [Email](mailto:xiang9872@gmail.com)
+### A few things to explore
+
+- **[Mini Desk](https://github.com/xiangjianan/mini-desk)** — A quiet place for screenshots, notes, reminders, and quick actions. [↗ Visit](https://minidesk.online/)
+- **[jindou-blog](https://github.com/xiangjianan/jindou-blog)** — Notes on AI, research, and technology. [↗ Read](https://jindou-blog.pages.dev/)
+- **[daily-digest](https://github.com/xiangjianan/daily-digest)** — A little collection of automated tasks and their output, every day. [↗ Explore](https://xiangjianan.github.io/daily-digest/)
+
+---
+
+[Website & more projects](https://xiangjianan.github.io/) · [Email](mailto:xiang9872@gmail.com)
