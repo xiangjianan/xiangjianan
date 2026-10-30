@@ -1,10 +1,8 @@
 <sub>A PLACE FOR SMALL IDEAS</sub>
 
-# 给好奇留点空间。
+# Make room for curiosity.
 
-让日子多点意思。
-
-Make room for curiosity. Make everyday a little more interesting.
+Make everyday a little more interesting.
 
 Tools, experiments, and ideas worth spending a little time on. Some are useful. Some are simply fun.
 
@@ -12,7 +10,7 @@ Tools, experiments, and ideas worth spending a little time on. Some are useful. 
 
 ### A few things to explore
 
-- **[Mini Desk](https://github.com/xiangjianan/mini-desk)** — A quiet place for screenshots, notes, reminders, and quick actions. [↗ Visit](https://minidesk.online/)
+- **[Mini Desk](https://github.com/xiangjianan/minidesk)** — A quiet place for screenshots, notes, reminders, and quick actions. [↗ Visit](https://minidesk.online/)
 - **[jindou-blog](https://github.com/xiangjianan/jindou-blog)** — Notes on AI, research, and technology. [↗ Read](https://jindou-blog.pages.dev/)
 - **[daily-digest](https://github.com/xiangjianan/daily-digest)** — A little collection of automated tasks and their output, every day. [↗ Explore](https://xiangjianan.github.io/daily-digest/)
 
